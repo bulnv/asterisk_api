@@ -1,0 +1,6 @@
+config.php
+dump.txt
+*.gz
+*.tgz
+*.zip
+*.7z
